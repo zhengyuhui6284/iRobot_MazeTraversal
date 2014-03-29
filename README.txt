@@ -1,5 +1,7 @@
-team member:
+Purdue ECE568 Course Final Project
 
-Calvin Holic
-Yusheng Weijian
-Yuhui Zheng
+Group# 6
+
+Topic: iRobot Maze Traversal & Mine Detection
+
+team member: Calvin Holic, Yusheng Weijian, Yuhui Zheng
